@@ -1,0 +1,2 @@
+use("sample_airbnb")
+db.listingsAndReviews.find({bedrooms:8})
